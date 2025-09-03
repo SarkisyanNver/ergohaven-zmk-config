@@ -173,7 +173,7 @@
 
         scroll {
             bindings = <
-&mkp MB1  &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
+&mkp MB1  &kp A   &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
 &trans    &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
 &trans    &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans  &trans  &trans  &trans
                   &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
