@@ -40,6 +40,51 @@
             bindings = <&kp RS(F2)>;
             key-positions = <2 4>;
         };
+
+        Copy {
+            bindings = <&kp LC(C)>;
+            key-positions = <38 27>;
+        };
+
+        Paste {
+            bindings = <&kp LC(V)>;
+            key-positions = <38 28>;
+        };
+
+        Cut {
+            bindings = <&kp LC(X)>;
+            key-positions = <38 26>;
+        };
+
+        Undo {
+            bindings = <&kp LC(Z)>;
+            key-positions = <38 25>;
+        };
+
+        Select {
+            bindings = <&kp LC(A)>;
+            key-positions = <38 13>;
+        };
+
+        Save {
+            bindings = <&kp LC(S)>;
+            key-positions = <38 14>;
+        };
+
+        Filldown {
+            bindings = <&kp LC(D)>;
+            key-positions = <38 15>;
+        };
+
+        Find {
+            bindings = <&kp LC(F)>;
+            key-positions = <38 16>;
+        };
+
+        Print {
+            bindings = <&kp LC(P)>;
+            key-positions = <38 10>;
+        };
     };
 
     macros {
