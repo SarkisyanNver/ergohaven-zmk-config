@@ -87,8 +87,8 @@
         };
 
         Lock {
-            bindings = <&kp LG(I)>;
-            key-positions = <8 38>;
+            bindings = <&kp LG(L)>;
+            key-positions = <38 21>;
         };
 
         SaveAs {
