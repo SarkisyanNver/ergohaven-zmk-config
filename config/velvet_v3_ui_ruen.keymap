@@ -85,6 +85,16 @@
             bindings = <&kp LC(P)>;
             key-positions = <38 10>;
         };
+
+        Lock {
+            bindings = <&kp LG(I)>;
+            key-positions = <8 38>;
+        };
+
+        SaveAs {
+            bindings = <&kp LS(LC(S))>;
+            key-positions = <24 14 38>;
+        };
     };
 
     macros {
